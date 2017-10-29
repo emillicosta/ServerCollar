@@ -1,0 +1,25 @@
+{
+    "id": 1,
+    "segments": {
+            "coordenadas" : [ 
+                        {
+                            "latitude" : -5.8323717,
+                            "longitude": -35.2055003,
+                            "elevation": "101m",
+                            "date"     : "2017-10-28 15:23"
+                        }, 
+                        {
+                            "latitude" : -5.8414419,
+                            "longitude": -35.1982745,
+                            "elevation": "101m",
+                            "date"     : "2017-10-28 12:57"
+                        },
+                        {
+                            "latitude" : -5.8408855,
+                            "longitude": -35.2002743,
+                            "elevation": "101m",
+                            "date"     : "2017-10-28 14:48"
+                        }
+                     ]
+            } 
+ }
